@@ -1,0 +1,17 @@
+/target
+/.settings
+/.apt_generated
+/testdb.tmp
+
+/.classpath
+/.factorypath
+/.project
+/.springBeans
+/my.log
+/testdb.lck
+/testdb.log
+/testdb.properties
+/testdb.script
+
+
+
